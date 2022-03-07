@@ -2,8 +2,8 @@
 
 Currently working on:
 
+- Building the Cash App @ Block
 - [tuist](https://github.com/tuist/tuist)
-- [Beans](https://github.com/luispadron/Beans)
 
 
 Read my thoughts:
