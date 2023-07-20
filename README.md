@@ -2,7 +2,7 @@
 
 Currently working on:
 
-- Building the Cash App @ Block
+- Building Cash App @ Block
 - Contributing to Bazel iOS open-source
 
 Read my thoughts:
